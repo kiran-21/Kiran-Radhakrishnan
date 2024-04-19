@@ -1,4 +1,3 @@
-# Kiran-Radhakrishnan
 <h1 align="center">Hi 👋, I'm Kiran Radhakrishnan</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
